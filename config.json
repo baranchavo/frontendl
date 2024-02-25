@@ -1,0 +1,5 @@
+{
+    "link_limit": 3,
+    "api_url": "http://node.moonhosting.xyz:25565",
+    "callback_url": "http://node.moonhosting.xyz:25565/callback"
+}
